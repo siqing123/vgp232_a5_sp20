@@ -30,7 +30,7 @@ namespace Assignment5
             // TODO: initialize the inventory
             // Add a few items
             // Remove a few items
-            // show the inventory.
+            // show the inventory.//
             items.Remove(item1);
             items.ShowInventory();
 
